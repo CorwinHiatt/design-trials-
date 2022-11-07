@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# I've decided to try a new react design ui 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Happy coding 📲💻
 
 ## Available Scripts
 
